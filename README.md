@@ -12,6 +12,10 @@ Stock up inventory before peak seasonal months to avoid stockouts during demand 
 Since no single category dominates, consider running targeted promotions for the lowest-performing category to close the gap.
 Use quarterly aggregation charts in executive reports — they're cleaner than daily data for decision-makers.
 
+<p align="center">
+  <img src="" alt="Dashboard" width="600"/>
+</p>
+
 
 📊 Project 2 — Statistical Plots & Distribution Analysis
 Insights:
@@ -27,6 +31,10 @@ Investigate outlier days — if they are genuine bulk orders, build a B2B sales 
 Since regional performance is similar, pilot a promotional campaign in one region and compare KDEs before/after to measure impact.
 The slight right skew in sales suggests a small number of high-value days contribute disproportionately — identify what drives those days (events, holidays, campaigns).
 
+<p align="center">
+  <img src="" alt="Dashboard" width="600"/>
+</p>
+
 
 📊 Project 3 — Correlation Heatmap & Pairwise Relationships
 Insights:
@@ -41,4 +49,8 @@ Recommendations:
 Set a discount ceiling (e.g., max 20%) beyond which the margin loss outweighs the volume gained — the negative Discount-Profit correlation directly supports this.
 Focus on growing Sales through volume (Quantity) rather than deeper discounts, since the Sales-Profit relationship is healthier than the Discount-Profit one.
 Use the correlation heatmap as a feature selection guide if you build a predictive model in future weeks — highly correlated features may cause multicollinearity.
+
+<p align="center">
+  <img src="" alt="Dashboard" width="600"/>
+</p>
 

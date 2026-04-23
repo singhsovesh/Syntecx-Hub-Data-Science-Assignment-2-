@@ -13,7 +13,7 @@ Since no single category dominates, consider running targeted promotions for the
 Use quarterly aggregation charts in executive reports — they're cleaner than daily data for decision-makers.
 
 <p align="center">
-  <img src="project1_time_series_charts.png" alt="Dashboard" width="600"/>
+  <img src="project1_time_series_charts.png" alt="Dashboard" width="800"/>
 </p>
 
 
@@ -32,7 +32,7 @@ Since regional performance is similar, pilot a promotional campaign in one regio
 The slight right skew in sales suggests a small number of high-value days contribute disproportionately — identify what drives those days (events, holidays, campaigns).
 
 <p align="center">
-  <img src="project2_statistical_plots.png" alt="Dashboard" width="600"/>
+  <img src="project2_statistical_plots.png" alt="Dashboard" width="800"/>
 </p>
 
 

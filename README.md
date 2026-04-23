@@ -51,6 +51,6 @@ Focus on growing Sales through volume (Quantity) rather than deeper discounts, s
 Use the correlation heatmap as a feature selection guide if you build a predictive model in future weeks — highly correlated features may cause multicollinearity.
 
 <p align="center">
-  <img src="" alt="Dashboard" width="600"/>
+  <img src="project3_correlation_heatmap.png" alt="Dashboard" width="800"/>
 </p>
 

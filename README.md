@@ -54,3 +54,7 @@ Use the correlation heatmap as a feature selection guide if you build a predicti
   <img src="project3_correlation_heatmap.png" alt="Dashboard" width="800"/>
 </p>
 
+<p align="center">
+  <img src="project3_pairplot.png" alt="Dashboard" width="800"/>
+</p>
+

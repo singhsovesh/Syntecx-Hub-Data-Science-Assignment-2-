@@ -32,7 +32,7 @@ Since regional performance is similar, pilot a promotional campaign in one regio
 The slight right skew in sales suggests a small number of high-value days contribute disproportionately — identify what drives those days (events, holidays, campaigns).
 
 <p align="center">
-  <img src="" alt="Dashboard" width="600"/>
+  <img src="project2_statistical_plots.png" alt="Dashboard" width="600"/>
 </p>
 
 
